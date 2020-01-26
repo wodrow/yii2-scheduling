@@ -1,4 +1,4 @@
-Schedule extension for Yii2
+Scheduling extension for Yii2 framework rewrite by https://github.com/omnilight/yii2-scheduling
 ===========================
 
 This extension is the port of Laravel's Schedule component (https://laravel.com/docs/master/scheduling#scheduling-artisan-commands)
